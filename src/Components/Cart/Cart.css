@@ -1,0 +1,14 @@
+.cart__image {
+  width: 76px;
+  height: 76px;
+}
+.head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.minus,
+.plus {
+  cursor: pointer;
+  font-size: 20px !important;
+}
