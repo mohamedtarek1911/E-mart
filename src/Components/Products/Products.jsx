@@ -39,7 +39,7 @@ export default function Products() {
                   onClick={() => dispatch(addToCart(product))}
                   className="btn btn-primary w-100"
                 >
-                  Add To Card
+                  Add To Cart
                 </button>
               </div>
             </div>
